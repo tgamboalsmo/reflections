@@ -1,0 +1,5 @@
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+Staging is what you are going to commit. Allows you to specifically commit what you want
+to commit together.
